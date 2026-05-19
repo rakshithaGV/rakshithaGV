@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio]()
 
-- 📝 I regularly submit my new projects on [https://github.com/TheAnalystGopi](https://github.com/rakshithaGV)
+- 📝 I regularly submit my new projects on [https://github.com/rakshithaGV](https://github.com/rakshithaGV)
 
 - 💬 Ask me about **Database, Visualizations, Data Modelling and Financial Modelling**
 
