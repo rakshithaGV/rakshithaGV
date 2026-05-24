@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Pyspark, Machine learning, Ai Tools**
 
-- 👨‍💻 All of my projects are available at [Portfolio]()
+- 👨‍💻 All of my projects are available at [Portfolio](https://rakshithagv.github.io/rakshitha/)
 
 - 📝 I regularly submit my new projects on [https://github.com/rakshithaGV](https://github.com/rakshithaGV)
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **gvrakshitha26@gmail.com**
 
-- 📄 Know about my experiences [Resume]()
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1I2jTx7KN2MUBzBujlnsFjCh85HtSh5RB/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
