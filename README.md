@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **gvrakshitha26@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lRmUfAbKrVDMx9UjFsnaIIT--2e2QAte/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ix1qnkHripXBVnzfORabm6ZaPDANmlUT/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
